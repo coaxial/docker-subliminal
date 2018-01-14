@@ -3,6 +3,8 @@
 Subliminal is a subtitles downloader for your video files. Subliminal is
 written by Diaoul, and is available at https://github.com/Diaoul/subliminal
 
+*Note that this is a work in progress*
+
 ## Usage
 
 ### Basic
